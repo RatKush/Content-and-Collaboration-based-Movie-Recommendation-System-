@@ -1,0 +1,17 @@
+Exercise
+
+1. Scientific Paper Reading
+
+Read the following paper and answer the questions below: http://www.codeheroku.com/static/workshop/hw/movie recommendation/MovieReco mmenderSystem.pdf
+
+a. What are some of the problems that authors faced during implementation of a recommender system? And how did they go about solving them? 
+b. What approach did authors take to evaluate the performance of their recommendation system?
+c. How did authors fix problems of high memory and compute time requirements of their recommendation system? 
+
+II Programming
+
+a.  current implementation of the recommender system uses content-based filtering and doesn't take into account popularity or ratings of a movie while recommending movies to a user. Implement a hybrid recommendation system that uses vote_count/ vote_average features from the dataset to provide better recommendations.
+b. Which additional features could be used to improve the quality of the recommendation
+
+system? 
+How would you go about deciding which features to use?
